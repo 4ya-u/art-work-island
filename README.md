@@ -4,6 +4,15 @@
 그림 프로그램을 켜고 그리기 시작하면 시간이 쌓이고, 화면 위 가운데의 작은 알약에 오늘 시간과 물결이 흐릅니다.
 마우스를 올리면 그 자리에서 펼쳐지고, 크게 보기에서 프로젝트 · 캘린더 · 통계를 봅니다.
 
+![그림 프로그램 위에 떠 있는 아일랜드 — 오늘 그린 시간과 다가오는 일정](docs/readme/1-island.png)
+
+![펼친 모습 — 지금 그리는 그림과 듣는 음악](docs/readme/2-expanded.png)
+
+<img src="docs/readme/3-now.png" width="49%" alt="지금"> <img src="docs/readme/4-calendar.png" width="49%" alt="캘린더">
+<img src="docs/readme/5-projects.png" width="49%" alt="프로젝트"> <img src="docs/readme/6-stats.png" width="49%" alt="통계">
+
+<sub>화면 속 그림 · 이름 · 기록은 모두 예시입니다.</sub>
+
 [아트 워크 트래커](https://github.com/4ya-u/art-work-tracker)를 알약 하나로 다시 만든 새 앱입니다.
 
 ---
